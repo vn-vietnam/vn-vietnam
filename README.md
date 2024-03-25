@@ -8,11 +8,10 @@
 </div>
 <hr></hr>
 <div id="HI" align="center">
-  <div>Hi there 👋 </div>
-  <div>I'm Kien from HCM City - VietNam 🫡</div>
-  <img src="https://media.giphy.com/media/MBNgMB6miNesE/giphy.gif" width="800" />
-</div>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vn-vietnam&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vn-vietnam&layout=compact&theme=vision-friendly-dark)](https://github.com/vn-vietnam/github-readme-stats)
+
+</div>
